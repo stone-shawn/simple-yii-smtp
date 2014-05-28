@@ -1,4 +1,12 @@
 <?php
+/**
+ * Smtp Yii Component.
+ * @author Lei Xiao <ailaohuyou.lei@gmail.com>
+ * @copyright Copyright &copy; Lei Xiao 2014 - 
+ * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
+ * @package extentions
+ */
+
 class Smtp extends CApplicationComponent
 {
     public $smtp_port;
