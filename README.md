@@ -34,7 +34,6 @@ Usage:
 ------
 <pre>
   <code>
-    $from = 'hello@leiswork.com';
     $subject =  "A test mail from leiswork";
     $message = "<b>Hello world!!</b>";
     $to = 'recivier@test.loc';
